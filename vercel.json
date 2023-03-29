@@ -9,7 +9,7 @@
   "routes": [
     {
       "src": "/(.*)",
-      "dest": "/bundler/webpack.prod.js"
+      "dest": "/src/index.js"
     }
   ]
 }
